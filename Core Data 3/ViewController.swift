@@ -31,6 +31,7 @@ class ViewController: UIViewController {
             print(stu.firstname!)
             print(stu.lastname!)
         }
+        
     }
 
     override func didReceiveMemoryWarning() {
